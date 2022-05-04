@@ -1,3 +1,12 @@
+Projeto para solução do desafio proposto no link
+
+
+Video de apresentação da execução
+https://youtu.be/0uVjksfe5kQ
+
+Existem diversas outras formas de tratar que fariam o processo ser mais rápido, apenas desenvolvi uma solução utilizando ReFramework e fila de orchestrator para treino.
+
+
 ### Documentation is included in the Documentation folder ###
 
 [REFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)
